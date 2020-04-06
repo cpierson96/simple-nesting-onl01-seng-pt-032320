@@ -5,6 +5,7 @@ def hopper
           :known_for => "COBOL",
         }
  		}
+ 		programmer_hash
 end
 
 def alan_kay_is_known_for
