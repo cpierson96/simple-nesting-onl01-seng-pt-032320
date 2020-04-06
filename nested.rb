@@ -66,8 +66,9 @@ def adding_matz
           :known_for => "Unix",
           :languages => ["C"]
         },
-        :yukihiro_matsumoto
+        :yukihiro_matsumoto => {
      }
+ 		}
 
     
 end
