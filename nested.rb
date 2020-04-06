@@ -47,7 +47,7 @@ def dennis_ritchies_language
       },
       :alan_kay => {
         :known_for => "Object Orientation",
-        :languages => ["Smalltalk", "LISP"]
+        :languages => ["Smalltalk", "LISP", "C"]
       },
       :dennis_ritchie => {
         :known_for => "Unix",
