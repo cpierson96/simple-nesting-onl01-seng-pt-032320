@@ -43,7 +43,7 @@ def dennis_ritchies_language
  		{
       :grace_hopper => {
         :known_for => "COBOL",
-        :languages => ["COBOL", "FORTRAN"]
+        :languages => ["COBOL", "FORTRAN", "C"]
       },
       :alan_kay => {
         :known_for => "Object Orientation",
